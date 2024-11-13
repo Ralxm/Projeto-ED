@@ -1,0 +1,5 @@
+[2024-05-24 18:38:46] Requisitante não é válido - ID: 101356475
+[2024-05-24 18:38:50] Requisitante não é válido - ID: 101356475
+[2024-05-24 18:42:43] Requisitante não é válido - ID: 101356475
+[2024-05-27 13:56:57] Requisitante não é válido - ID: 101356475
+[2024-06-03 21:06:42] Requisitante não é válido - ID: 101356475

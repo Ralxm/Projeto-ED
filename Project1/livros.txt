@@ -1,0 +1,15 @@
+1;O Ano da Morte de Ricardo Reis;José Saramago;1;1984
+2;Os Maias;Eça de Queiroz;1;1888
+3;Quatro Estações no Japão;Nick Bradley;4;2024
+4;Crash And Burn;James Rollins;8;2016
+5;Uma Aventura na Serra da Estrela;Ana Maria Magalhães;10;1993
+6;A Arte da Guerra;Sun Tzu;11;-600
+7;Astrofísica para Gente com Pressa;Neil deGrasse Tyson;3;2017
+8;A Fada Oriana;Sophia de Mello Breyner Andresen;11;1958
+9;A Menina do Mar;Sophia de Mello Breyner Andresen;11;1958
+10;O Principezinho;Antoine de Saint-Exupéry;11;1943
+11;Breve História do Tempo;Stephen Hawking;3;1988
+12;Matemática Para Pessoas Com Pressa;Chris Waring;2;2021
+13;Fabulous Fibonacci Numbers;Ingmar Lehman;3;2023
+14;For the Love of Physics;Walter Lewin;3;2011
+15;Autobiografia;Algu‚m;5;2023
